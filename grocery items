@@ -6,4 +6,8 @@ Console.WriteLine("4.grapes");
 Console.WriteLine("5.water malon ");
 
 
+
+
+Console.WriteLine("beans");
 Console.WriteLine("sugar");
+
