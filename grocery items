@@ -4,3 +4,7 @@ Console.WriteLine("2.mango");
 Console.WriteLine("3.banana");
 Console.WriteLine("4.grapes");
 Console.WriteLine("5.water malon ");
+
+
+
+Console.WriteLine("beans");
